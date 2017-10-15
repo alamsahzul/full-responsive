@@ -90,7 +90,6 @@
            <li><a href="services.php">SERVICES</a></li>
            <li><a href="portfolio.php">PORTFOLIO</a></li>
            <li><a href="member/index.php">MEMBERSHIP</a></li>
-
            <li class="dropdown">
              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
              <ul class="dropdown-menu">
@@ -115,7 +114,7 @@
     <div class="container-fluid belowMenu slider">
       <div class="row">
         <div class="">
-              <?php include 'slider.php'; ?>
+              slider
         </div>
       </div>
     </div>
