@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,7 +7,7 @@
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
       <style>
         body, html{
-          background:  url('http://najibasaddok.com/wp-content/themes/aplikasiniaga/images/background-round-black.jpg');
+          background-color: black;
         }
         .header{
             background-color: red;
@@ -40,8 +38,6 @@
           background-color: black;
           position: fixed;
           bottom: 0;
-          /*position:absolute;*/
-          /*bottom:10;*/
           width:100%;
         }
         /* Large desktop */
