@@ -75,13 +75,13 @@
        </div>
        <div id="navbar" class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
-           <li><a href="index.php">HOME</a></li>
-           <li><a href="event.php">EVENTS</a></li>
-           <li><a href="about.php">ABOUT US</a></li>
-           <li><a href="news.php">NEWS</a></li>
-           <li><a href="services.php">SERVICES</a></li>
-           <li><a href="portfolio.php">PORTFOLIO</a></li>
-           <li><a href="member/index.php">MEMBERSHIP</a></li>
+           <li><a href="#">HOME</a></li>
+           <li><a href="#">EVENTS</a></li>
+           <li><a href="#">ABOUT US</a></li>
+           <li><a href="#">NEWS</a></li>
+           <li><a href="#">SERVICES</a></li>
+           <li><a href="#">PORTFOLIO</a></li>
+           <li><a href="#">MEMBERSHIP</a></li>
            <li class="dropdown">
              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
              <ul class="dropdown-menu">
