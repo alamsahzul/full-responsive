@@ -106,7 +106,7 @@
     <div class="container-fluid belowMenu slider">
       <div class="row">
         <div class="">
-              slider
+          <p> slider </p>
         </div>
       </div>
     </div>
