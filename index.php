@@ -72,9 +72,6 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-         <a class="navbar-brand" href="#" style="color: white" >
-           <img src="public/images/logo.png" alt="PEKA" width="20%" height="100%" padding="1px" />
-         </a>
        </div>
        <div id="navbar" class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
