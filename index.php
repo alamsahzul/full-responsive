@@ -28,8 +28,6 @@
         .subContent{ 
           background-color: blue;
         }
-
-
         .aboveFooter{
           margin-bottom: 15px;
           background-color: #e9ebee;
