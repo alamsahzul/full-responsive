@@ -25,7 +25,7 @@
         .content{
           background-color: #e9ebee;
         }
-        .subContent{
+        .subContent{ 
           background-color: blue;
         }
 
