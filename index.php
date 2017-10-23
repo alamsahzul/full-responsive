@@ -44,7 +44,7 @@
         @media (min-width: 1200px) { ... }
 
         /* Portrait tablet to landscape and desktop */
-        @media (min-width: 768px) and (max-width: 979px) {
+        @media (min-width: 768px) and  (max-width: 979px) {
           .belowMenu{
             padding-top: 55px;
           }
